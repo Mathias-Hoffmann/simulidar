@@ -9,7 +9,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist -r https://github.com/Mathias-Hoffmann/simulidar.git"
+
   },
   "dependencies": {
     "react": "^18.2.0",
