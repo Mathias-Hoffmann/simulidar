@@ -1,2 +1,2 @@
-# Mini Simulation 3D — Angles, Cible & Caméra (avec Excel)
+# Mini Simulation 3D — Angles, Cible & Caméra
 
